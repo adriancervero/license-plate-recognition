@@ -9,6 +9,10 @@ Clone repo and get into the folder:
 git clone https://github.com/adriancervero/license-plate-recognition.git
 cd license-plate-recognition
 ```
+Next, install all needed dependencies:
+```
+pip install -r requirements.txt
+```
 Then run the following command to launch the app:
 ```
 streamlit run app.py
