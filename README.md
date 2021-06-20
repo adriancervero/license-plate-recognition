@@ -2,6 +2,19 @@
 
 ![Streamlit App Gif](app_gif.gif)
 
+## Instructions
+
+Clone repo and get into the folder:
+```
+git clone https://github.com/adriancervero/license-plate-recognition.git
+cd license-plate-recognition
+```
+Then run the following command to launch the app:
+```
+streamlit run app.py
+```
+
+
 ## Objective
 This project consists of developing an automatic license plate recognition system. It is able to detect car license plates from images and extract their content in the form of text strings.
 
